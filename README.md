@@ -2,7 +2,7 @@
 
 A Monte Carlo revenue forecasting tool built for RevOps teams. It simulates your pipeline deal-by-deal to produce probabilistic forecasts with confidence intervals — replacing the static weighted pipeline calculations that most teams use.
 
-**[Live Demo →](https://your-username.github.io/revcast)**
+**[Live Demo →](https://antmend.github.io/revcast)**
 
 ![RevCast Screenshot](screenshot.png)
 
@@ -72,7 +72,7 @@ Model your hiring needs based on quota, attainment rates, ramp time, and cost pe
 ## Running locally
 
 ```bash
-git clone https://github.com/your-username/revcast.git
+git clone https://github.com/AntMend/revcast.git
 cd revcast
 npm install
 npm run dev
